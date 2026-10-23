@@ -1,17 +1,19 @@
-# slot_machine_vovk
+# Лабораторная № 9 
+## В этой лабораторной мы изучали разницу между StatefulWidget и StatelessWidget, а также управляли состоянием приложения через setState()
+___
+## Вовк Тимофей ИСП-242 23.10.2026
 
-A new Flutter project.
+## Что изучили:
+1. Изучили, как управлять состоянием приложения через setState
+2. Узнали, как сделать... безобидное приложения для всех возрастов
+3. Узнали, когда пользоваться StatefulWidget и StatelessWidget
 
-## Getting Started
+![](img/final.png)
 
-This project is a starting point for a Flutter application.
+## Как запустить?
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Открываем VS code
+- Находим папку проекта
+- Находим в нём папку lib
+- В папке lib открывает файл main.dart
+- Нажимает на "run"
