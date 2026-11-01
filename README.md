@@ -6,7 +6,7 @@
 ---
 |Главный экран|Проигрыш|Выигрыш|Джекпот|
 |---|---|---|---|
-|![](steps\main.png)|![](steps\lose.png)|![](steps\win.png)|![](steps\jackpot.png)|
+|![](steps/main.png)|![](steps/lose.png)|![](steps/win.png)|![](steps/jackpot.png)|
 
 ## Как играть
 ---
